@@ -25,6 +25,8 @@ This portfolio is a demonstration of my progression in learning Python, starting
 10. **10_LinkedList.py**: A basic implementation of a linked list using Python classes.
 11. **11_BinaryTree.py**: A basic implementation of a binary tree using Python classes.
 12. **Ex1_TheLibraryRegister.py**: A comprehensive exercise modeling a basic library system using Python's OOP concepts.
+13. **Ex2_GardenPlantManagement.py**: Exercise focused on managing garden plants with various functionalities and tracking their health.
+14. **Ex3_UniversityManagement.py**: A system for managing university courses, student registration, and administrative tasks.
 
 ## Usage
 To run any of the programs, simply execute the Python file using the `python3` command.
